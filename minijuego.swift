@@ -10,7 +10,7 @@ for rang in rango {
         print("# \(rang) Bingo!!!")
     }else if (rang % 2 == 0){
         print("# \(rang) par!!!")
-    }else if (rang % 1 == 0){
+    }else if (rang % 2 != 0){
         print ("# \(rang) Impar!!!")
     }
     if (rang >= 30) == ( rang <= 40) {
