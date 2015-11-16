@@ -14,7 +14,7 @@ for rang in rango {
         print ("# \(rang) Impar!!!")
     }
     if (rang >= 30) == ( rang <= 40) {
-        print("# \(rang) par!!!")
+        print("# \(rang) Viva Swift!!!")
     }
     
 }
